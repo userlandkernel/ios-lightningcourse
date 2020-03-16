@@ -6,4 +6,4 @@ This is a sneak peak into the lightning course I will give in June/July 2020
 ### Computer Science
 
 #### Assembly
-- (asm/kernel01.S)[Your first assembly program]
+- [Your first assembly program](asm/kernel01.S)
