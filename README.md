@@ -8,4 +8,4 @@ The course covers some basics of computer science.
 This knowledge will be mandatory if you want to follow the exploitation & reverse engineering lectures later.  
 
 #### Assembly
-- [Your first assembly program](asm/kernel01.S)
+- [Writing a program in ARM64: Example code](asm/kernel01.S)
