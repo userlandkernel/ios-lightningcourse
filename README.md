@@ -1,5 +1,7 @@
-# ios-lightningcourse
-This is a sneak peak into the lightning course I will give in June/July 2020
+# iOS Lightning Course / Training
+This is a sneak peak into the lighning course to be held at the Technical University of Eindhoven in June / July 2020.  
+Due to the outbreak of the corona virus and the great demand for online course materials I will publish some of the materials online.  
+As of current I assume that the government will have the situation under control in July so the training will proceed unless adviced other wise by the government.  
 
 ## INDEX
 
